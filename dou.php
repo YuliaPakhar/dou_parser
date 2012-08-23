@@ -50,4 +50,5 @@ for($page = 235; $page < 900; $page++) {
         }
     }
 }
+
 $driver->quit();

@@ -10,7 +10,7 @@ Current version: 1.0.0
     webdriver php implementation
 ## Download Library
 
- [ScreenTest Library](https://github.com/YuliaPakhar/dou_parser)
+ [Dou parser script](https://github.com/YuliaPakhar/dou_parser)
 
 ## Copyright
 
